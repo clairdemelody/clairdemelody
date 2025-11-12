@@ -6,7 +6,7 @@
 🍎 Graduated with a B.S. in Computer Science at the College of William & Mary<br/>
 🎨 Makes art and draws in free time<br/>
 🌱 Currently learning: Systems Design<br/>
-📖 Currently Reading: Rosario+Vampire Manga by Akihisa Ikeda 35%<br/>
+📖 Currently Reading: Rosario+Vampire Manga by Akihisa Ikeda 75%<br/>
 
 # 📊 GitHub Stats:
 [![Melody's GitHub stats](https://github-readme-stats.vercel.app/api?username=clairdemelody&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
